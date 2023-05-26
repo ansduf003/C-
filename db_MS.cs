@@ -1,3 +1,7 @@
+using System;
+using System.Data;
+using System.Data.SqlClient;
+
 /// <summary>
 /// MSDB연결
 /// </summary>       
